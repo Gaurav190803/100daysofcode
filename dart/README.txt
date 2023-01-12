@@ -1,0 +1,1 @@
+Paste the main file in the lib folder of flutter project to use it :)
